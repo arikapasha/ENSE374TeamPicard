@@ -17,4 +17,5 @@ Not only is this helpful for users to post their opinion about music, but it is 
 
 ## Vlogs
 [Vlog#1](http://github.com)
+
 [Vlog#2](http://github.com)
