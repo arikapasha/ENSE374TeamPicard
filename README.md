@@ -16,6 +16,6 @@ It is very hard for people to keep track of all the music they have listened to,
 Not only is this helpful for users to post their opinion about music, but it is also useful for artists and producers to see if their music is doing well in terms of ratings.
 
 ## Vlogs
-[Vlog#1](http://github.com)
+[Vlog#1](https://www.youtube.com/watch?v=7JTmQI3_q_s)
 
-[Vlog#2](http://github.com)
+[Vlog#2](https://www.youtube.com/watch?v=CKGe3ufRX44)
