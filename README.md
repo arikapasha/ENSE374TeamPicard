@@ -1,4 +1,4 @@
-# This is an <h1> tag
+# Team Picard <h1> tag
 
 MEMBERS
  * Arika Pasha
