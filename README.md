@@ -1,4 +1,4 @@
-# Team Picard 
+# **Team Picard**
 ## Members
  * Arika Pasha
  * Chirayu Patel
