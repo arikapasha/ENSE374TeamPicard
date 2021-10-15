@@ -20,5 +20,5 @@ Not only is this helpful for users to post their opinion about music, but it is 
 
 [Vlog#2](https://www.youtube.com/watch?v=CKGe3ufRX44)
 
-##Documentation
+## Documentation
 [Activity#2](https://github.com/arikapasha/ENSE374TeamPicard/tree/main/Activity%232)
