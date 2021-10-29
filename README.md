@@ -20,7 +20,7 @@ Not only is this helpful for users to post their opinion about music, but it is 
 
 [Vlog#2](https://www.youtube.com/watch?v=CKGe3ufRX44)
 
-[Vlog#3](PASTE LINK HERE)
+[Vlog#3](https://www.youtube.com/watch?v=Anu-8FnUDfE&ab_channel=CharlesSamonte)
 
 ## Documentation
 [Activity#1](https://github.com/arikapasha/ENSE374TeamPicard/blob/main/Activity%231)
