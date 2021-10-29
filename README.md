@@ -24,3 +24,6 @@ Not only is this helpful for users to post their opinion about music, but it is 
 [Activity#1](https://github.com/arikapasha/ENSE374TeamPicard/blob/main/Activity%231)
 
 [Activity#2](https://github.com/arikapasha/ENSE374TeamPicard/tree/main/Activity%232)
+
+[Activity#3](https://github.com/arikapasha/ENSE374TeamPicard/tree/main/Activity%233)
+
