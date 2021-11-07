@@ -27,5 +27,5 @@ Not only is this helpful for users to post their opinion about music, but it is 
 
 [Activity#2](https://github.com/arikapasha/ENSE374TeamPicard/tree/main/Activity%232)
 
-[Activity#3](https://github.com/arikapasha/ENSE374TeamPicard/tree/main/Activity%233)
+[Activity#3](https://github.com/arikapasha/ENSE374TeamPicard/tree/main/Activity%233) and [MVC Architecture Diagram Audio](https://www.youtube.com/watch?v=FqvBc8ftdJE)
 
