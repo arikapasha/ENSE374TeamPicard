@@ -1,0 +1,207 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Hugo 0.79.0">
+    <title>Music</title>
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/starter-template/">
+
+    
+
+    <!-- Bootstrap core CSS -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.0.0-beta1/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+      .container-fluid{
+        padding-left: 0;
+        padding-right: 0;
+      }
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+      body{
+        background-image: url('bg.jpg');
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-size: cover
+      }
+      .checked {
+  color: orange;
+}
+.large{
+    font-size: xxx-large;
+    letter-spacing: 25px;
+}
+    </style>
+
+  
+  </head>
+  <body style="height: 100vh;">
+    
+<nav class="navbar navbar-expand-md navbar-dark bg-dark">
+  <div class="container-fluid">
+    <div class=" col-9 d-flex justify-content-center">
+      <div class="navbar-brand" ><h2>Rate my music</h2></div>
+    </div>
+    
+      <form class="col-3 d-flex pr-2">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-success" type="submit">Search</button>
+      </form>
+    </div>
+  </div>
+</nav>
+
+<main class="container-fluid row justify-content-end" style="height: 100vh;">
+  <div class="col-2 fixed-top d-flex flex-column flex-shrink-0 p-3 text-white bg-dark h-100" style="width: 280px;height: '100vh';">
+    <a href="index.html" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-white text-decoration-none">
+      <span class="fs-4">Username</span>
+    </a>
+    <hr>
+    <ul class="nav nav-pills flex-column mb-auto">
+      <li class="nav-item">
+        <a href="index.html" class="nav-link active" aria-current="page">
+          Home
+        </a>
+      </li>
+    <li class="nav-item">
+    <a href="myRatings.html" class="nav-link text-white" aria-current="page">
+      My Ratings
+    </a>
+  </li>
+  <li>
+    <a href="#" class="nav-link text-white">
+      My Music
+    </a>
+  </li>
+  <li>
+    <a href="#" class="nav-link text-white">
+      Settings
+    </a>
+  </li>
+  <li class="nav-item">
+    <a href="login.html" class="nav-link bg-danger text-white" aria-current="page">
+      Logout
+    </a>
+  </li>
+    </ul>
+    <hr>
+  </div>
+
+  <div class=" col-10 starter-template py-1 ">
+    
+    <div class="container px-4" id="custom-cards">
+      <div class="row row-cols-1 row-cols-lg align-items-stretch g-4 py-1">
+        <div class="col">
+          <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+            <div class="d-flex flex-column h-100 pt-1 pb-1 pl-1 pr-2 text-white text-shadow-1">
+              
+              <div class="container-fluid p-3">
+                <div class="d-grid gap-3" style="grid-template-columns: 1fr 2fr;">
+                  <div class="bg-dark rounded-3">
+                   
+                    <div class="card bg-dark border-0" style="width: 100%;">
+                      <img src="https://i.scdn.co/image/ab6761610000e5eb12a2ef08d00dd7451a6dbed6" class="card-img-top" alt="...">
+                      
+                    </div>
+                    
+                  </div>
+                  <div class="bg-gradient-dark rounded-3">
+                    <h1 class="pt-2 mb-4 lh-1 fw-bold">Let me Love you</h1>
+                    <h4 >By Ed-sheeran</h4>
+                    <div class="list-group list-group-numbered">
+                        <div class="progress m-5">
+                            <div class="progress-bar" role="progressbar" style="width: 25%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                          </div>
+                        
+                      <div class="d-flex justify-content-between">
+                        <div>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star-half checked"></span>
+                            <div class="text-secondary">
+                                9/10
+                            </div>
+                    </div>
+                    <div>
+                        <button class="btn btn-success">Add to wishlist</button>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <hr />
+            <div class="container p-3 text-center">
+                <div class="bg-gradient-dark rounded-3">
+                    <h1 class="pt-2 mb-4 lh-1 fw-bold">Your ratings</h1>
+                </div>
+                <div>
+                    <span class="fa large fa-star checked"></span>
+                    <span class="fa large fa-star checked"></span>
+                    <span class="fa large fa-star checked"></span>
+                    <span class="fa large fa-star checked"></span>
+                    <span class="fa large fa-star checked"></span>
+                    <span class="fa large fa-star checked"></span>
+                    <span class="fa large fa-star checked"></span>
+                    <span class="fa large fa-star"></span>
+                    <span class="fa large fa-star"></span>
+                    <span class="fa large fa-star"></span>
+                </div>
+                <div>
+                    <div class="form-floating bg-dark m-5">
+                        <textarea class="form-control bg-dark text-white" placeholder="Leave a comment here" id="floatingTextarea2" style="height: 100px"></textarea>
+                        <label for="floatingTextarea2">Comments</label>
+                      </div>
+                </div>
+            </div>
+            <hr/>
+            <div class="container p-3 ">
+                <div class="bg-gradient-dark rounded-3">
+                    <h1 class="pt-2 mb-4 lh-1 fw-bold">Comments</h1>
+                </div>
+                <ol class=" list-group list-group-numbered">
+                    <li class="bg-secondary  list-group-item d-flex justify-content-between align-items-start">
+                      <div class="ms-2 me-auto">
+                        <div class="fw-bold">Mr Patel</div>
+                        Heart touching song...!!
+                      </div>
+                      <span class="badge bg-primary rounded-pill">9/10</span>
+                    </li>
+                    <li class="bg-secondary list-group-item d-flex justify-content-between align-items-start">
+                      <div class="ms-2 me-auto">
+                        <div class="fw-bold">Ms Mehta</div>
+                        Amazing
+                      </div>
+                      <span class="badge bg-primary rounded-pill">8/10</span>
+                    </li>
+                  </ol>
+                </div>
+          </div>
+        </div>
+        </div>
+    </div>
+</main><!-- /.container -->
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.0.0-beta1/js/bootstrap.bundle.min.js"></script>
+
+      
+  </body>
+</html>
