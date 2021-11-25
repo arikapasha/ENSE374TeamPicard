@@ -1,18 +1,9 @@
-// server.js
-// where your node app starts
-
-// init project
 var express = require('express');
 var app = express();
 const port = 8000; 
 app.listen (port, () => {
     console.log (`Server is running on http://localhost:${port}`);
 });
-
-// we've started you off with Express, 
-// but feel free to use whatever libs or frameworks you'd like through `package.json`.
-
-// init Spotify API wrapper
 
 var SpotifyWebApi = require('spotify-web-api-node');
 
@@ -33,10 +24,8 @@ spotifyApi.clientCredentialsGrant()
   });
 
 
-// http://expressjs.com/en/starter/static-files.html
 app.use(express.static('public'));
 
-// http://expressjs.com/en/starter/basic-routing.html
 app.get("/", function (request, response) {
   response.sendFile(__dirname + '/views/index.html');
 });
