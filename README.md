@@ -26,3 +26,6 @@ Not only is this helpful for users to post their opinion about music, but it is 
 
 ## Documentation
 [Project Report](https://github.com/arikapasha/RateMyMusic/blob/main/Documentation/10%20Project%20Report.pdf)
+
+## Source Code
+[Rate My Music Code](https://github.com/arikapasha/RateMyMusic/tree/main/RateMyMusic_SourceCode)
