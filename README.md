@@ -22,10 +22,7 @@ Not only is this helpful for users to post their opinion about music, but it is 
 
 [Vlog#3](https://www.youtube.com/watch?v=Anu-8FnUDfE&ab_channel=CharlesSamonte) and [MVC Architecture Diagram Audio](https://www.youtube.com/watch?v=FqvBc8ftdJE)
 
+[Final Vlog](https://www.youtube.com/watch?v=v3VLVCNcRYQ&feature=youtu.be)
 
 ## Documentation
-[Activity#1](https://github.com/arikapasha/ENSE374TeamPicard/blob/main/Activity%231)
-
-[Activity#2](https://github.com/arikapasha/ENSE374TeamPicard/tree/main/Activity%232)
-
-[Activity#3](https://github.com/arikapasha/ENSE374TeamPicard/tree/main/Activity%233) 
+[Project Report](https://github.com/arikapasha/RateMyMusic/blob/main/Documentation/10%20Project%20Report.pdf)
