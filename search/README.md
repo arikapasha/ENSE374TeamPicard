@@ -1,1 +1,1 @@
-This was our initial code for using a serach function with Spotify's API, we ended up changing to creating our own music database. This is still on here since we referenced it in our ENSE 374 midterm #2. 
+This was our initial code for using a serach function with Spotify's API and node.js, we ended up changing to creating our own music database. This is still on here since we referenced it in our ENSE 374 midterm #2. 
