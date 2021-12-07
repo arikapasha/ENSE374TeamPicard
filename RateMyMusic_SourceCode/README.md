@@ -1,4 +1,4 @@
-# Rate My Music Source Code
+# <h1 align="center">Rate My Music Source Code </h1>
 # Installation Instructions
 
 ## Bitnami
