@@ -20,3 +20,19 @@
 
 10) Homepage (with five most recent ratings)
 ![Screen_Shot_2021-12-05_at_11 52 56_AM](https://user-images.githubusercontent.com/90287606/145034485-9180ac18-04d5-4255-9752-6989ab406f38.png)
+
+11) Search for a song or artist 
+![Screen_Shot_2021-12-05_at_11 53 32_AM](https://user-images.githubusercontent.com/90287606/145034692-336efd24-6c01-4050-bf27-c4e789ac715d.png)
+
+12) Search for songs with "re" in song or artist name and rate 
+![Screen_Shot_2021-12-05_at_11 53 55_AM](https://user-images.githubusercontent.com/90287606/145034773-64709932-2eaf-4265-bb8c-5647ea9bac39.png)
+
+13) Add song to database
+![Screen_Shot_2021-12-05_at_11 53 34_AM](https://user-images.githubusercontent.com/90287606/145034838-716f66bb-6b92-4595-88dc-d7def0509671.png)
+
+14) Search through your ratings with keyword "taylor"
+![Screen_Shot_2021-12-05_at_11 53 23_AM](https://user-images.githubusercontent.com/90287606/145034905-b79c050c-792f-4f0d-a359-61783fa68bdc.png)
+
+15) All your ratings
+![Screen_Shot_2021-12-05_at_11 53 14_AM](https://user-images.githubusercontent.com/90287606/145034993-bfed415f-ef3b-4e7f-8131-6eb10086d459.png)
+
