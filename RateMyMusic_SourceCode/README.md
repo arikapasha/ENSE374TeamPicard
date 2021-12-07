@@ -12,3 +12,11 @@
 
 6) Create a RateMyMusic Database to store signup information (email, username and password columns), store the user ratings (rateID, username, songID, rating columns) and to store a music database (song, artist, songID and picture columns)
 7) Now, the application should be fully functioning 
+8) User Signup
+![Screen_Shot_2021-12-05_at_11 52 14_AM](https://user-images.githubusercontent.com/90287606/145034297-203fa7c0-bc4e-4adc-bfa6-5c8024da22f2.png)
+
+9) User Login
+![Screen_Shot_2021-12-05_at_11 52 30_AM](https://user-images.githubusercontent.com/90287606/145034369-e5924158-01f6-424b-9604-2f7515d760cc.png)
+
+10) Homepage (with five most recent ratings)
+![Screen_Shot_2021-12-05_at_11 52 56_AM](https://user-images.githubusercontent.com/90287606/145034485-9180ac18-04d5-4255-9752-6989ab406f38.png)
